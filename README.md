@@ -5,7 +5,6 @@ Sample code to let you create your own adversarial examples! [Paper linked here]
 Setup:
 ```bash
 pip3 install -r requirements.txt
-git clone https://github.com/mozilla/DeepSpeech.git
 wget https://github.com/mozilla/DeepSpeech/releases/download/v0.1.0/deepspeech-0.1.0-models.tar.gz
 tar -xzf deepspeech-0.1.0-models.tar.gz
 rm deepspeech-0.1.0-models.tar.gz
