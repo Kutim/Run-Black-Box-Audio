@@ -1,6 +1,6 @@
 numpy
 scipy
-tensorflow-gpu
+tensorflow
 python_speech_features
 pandas
 matplotlib
