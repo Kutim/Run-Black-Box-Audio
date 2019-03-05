@@ -1,0 +1,7 @@
+numpy
+scipy
+tensorflow==1.9.0
+python_speech_features
+pandas
+matplotlib
+pyxdg
